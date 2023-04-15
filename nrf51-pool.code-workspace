@@ -1,0 +1,97 @@
+{
+	"folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "./gj/src/gj"
+    },
+    {
+      "path": "../../../nRF5_SDK_12.3.0_d7731ad/components"
+    },
+    {
+      "path": "../../../../Library/SEGGER/SEGGER Embedded Studio/v3/packages/libraries/libcxx/include"
+    },
+    {
+      "path": "../../../../../../Applications/SEGGER Embedded Studio for ARM 5.68/include"
+    }
+  ],
+  "settings": {
+    "files.associations": {
+      "functional": "cpp",
+      "cctype": "cpp",
+      "cerrno": "cpp",
+      "clocale": "cpp",
+      "cmath": "cpp",
+      "cstdarg": "cpp",
+      "cstddef": "cpp",
+      "cstdint": "cpp",
+      "cstdio": "cpp",
+      "cstdlib": "cpp",
+      "cstring": "cpp",
+      "ctime": "cpp",
+      "cwchar": "cpp",
+      "cwctype": "cpp",
+      "exception": "cpp",
+      "new": "cpp",
+      "typeinfo": "cpp",
+      "__bit_reference": "cpp",
+      "__config": "cpp",
+      "__debug": "cpp",
+      "__errc": "cpp",
+      "__functional_base": "cpp",
+      "__hash_table": "cpp",
+      "__locale": "cpp",
+      "__mutex_base": "cpp",
+      "__node_handle": "cpp",
+      "__nullptr": "cpp",
+      "__split_buffer": "cpp",
+      "__string": "cpp",
+      "__threading_support": "cpp",
+      "__tuple": "cpp",
+      "algorithm": "cpp",
+      "array": "cpp",
+      "atomic": "cpp",
+      "bit": "cpp",
+      "bitset": "cpp",
+      "chrono": "cpp",
+      "complex": "cpp",
+      "initializer_list": "cpp",
+      "ios": "cpp",
+      "iosfwd": "cpp",
+      "istream": "cpp",
+      "iterator": "cpp",
+      "limits": "cpp",
+      "locale": "cpp",
+      "memory": "cpp",
+      "mutex": "cpp",
+      "optional": "cpp",
+      "ostream": "cpp",
+      "ratio": "cpp",
+      "sstream": "cpp",
+      "stdexcept": "cpp",
+      "streambuf": "cpp",
+      "string": "cpp",
+      "string_view": "cpp",
+      "system_error": "cpp",
+      "tuple": "cpp",
+      "type_traits": "cpp",
+      "unordered_map": "cpp",
+      "utility": "cpp",
+      "vector": "cpp",
+      "__memory": "cpp"
+    },
+    "C_Cpp.default.defines": [
+      "GJ_NORDIC_BLE",
+      "NRF51",
+      "APP_SCHEDULER_WITH_PAUSE",
+      "NRF51_SDK=/Users/michelvachon/Documents/nordic/nRF5_SDK_12.3.0_d7731ad",
+      "BLE_ADVERTISING_ENABLED",
+      "APP_TIMER"
+    ],
+    "C_Cpp.default.systemIncludePath": [
+      "${NRF51_SDK}/components/libraries/scheduler"
+    ],
+    "git.ignoreLimitWarning": true
+  }
+}
