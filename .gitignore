@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+#segger
+*.jlink
+*.emSession
+pca10028_s130/Output/
